@@ -6,7 +6,12 @@ def x():
     def y():
         def z():
             print("hello worldddddddddddddddddddddddddddddd") 
-        z()
+            
+
+            
+    
+
+print(x)
     y()
 x()
 
