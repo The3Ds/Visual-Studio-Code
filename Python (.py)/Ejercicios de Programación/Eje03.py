@@ -29,4 +29,4 @@ fibonacci = [0, 1]
 for _ in range(6):  # Solo necesitamos 4 iteraciones adicionales
     fibonacci.append(fibonacci[-1] + fibonacci[-2])
 
-print(*fibonacci)  # Imprime los números de Fibonacci 
+print(*fibonacci)  # Imprime los números de Fibonacci
